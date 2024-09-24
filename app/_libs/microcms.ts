@@ -10,7 +10,7 @@ import { constrainedMemory } from 'process';
 export type Member = {
   name: string;
   position: string;
-  profiel: string;
+  profile: string;
   image: MicroCMSImage;
 } & MicroCMSListContent;
 
