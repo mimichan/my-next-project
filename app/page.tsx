@@ -24,6 +24,8 @@ export default async function Home() {
           className={styles.bgimg}
           src="/img-mv.jpg"
           alt=""
+          priority
+          sizes="100vw"
         />
       </section>
       <section className={styles.news}>

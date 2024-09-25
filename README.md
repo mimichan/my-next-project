@@ -4,6 +4,23 @@ npm install microcms-js-sdk@3.1.0
 npm install dayjs@1.11.10
 npm install nextjs-basic-auth-middleware@3.1.0
 
+
+9章 お問い合わせ
+HubSpot
+Server Actions
+useFormState
+
+10章
+import type { Metadata } from "next";
+favicon.ico
+robots.txt
+sitemap.ts
+
+アナリティクス
+npm install @next/third-parties@14.1.4
+
+SendGAEvent
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
